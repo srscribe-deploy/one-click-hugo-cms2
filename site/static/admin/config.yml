@@ -87,3 +87,4 @@ collections: # A list of collections the CMS should be able to edit
             search_fields: ["title"]
             value_field: "title"
             display_fields: ["title", "description"]
+            multiple: true
