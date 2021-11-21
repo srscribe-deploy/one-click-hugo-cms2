@@ -38,8 +38,7 @@ values:
       and learn more about coffee farming on our blog.
     imageUrl: /img/about-reinvest-profits.jpg
 post:
-  - A beginners’ guide to brewing with Chemex
-  - Testing
-  - "Just in: small batch of Jamaican Blue Mountain in store next week"
-  - Making sense of the SCAA’s new Flavor Wheel
+  - testing
+  - brewing-chemex
+  - making-sense
 ---
