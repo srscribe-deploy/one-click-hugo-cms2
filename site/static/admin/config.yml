@@ -81,9 +81,9 @@ collections: # A list of collections the CMS should be able to edit
               - {label: Text, name: text, widget: text}
               - {label: Image, name: imageUrl, widget: image}
           - label: "Posts"
-            name: "posts"
+            name: "post"
             widget: "relation"
-            collection: "posts"
+            collection: "post"
             search_fields: ["title"]
             value_field: "title"
             display_fields: ["title", "description"]
