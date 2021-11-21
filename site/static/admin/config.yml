@@ -85,6 +85,6 @@ collections: # A list of collections the CMS should be able to edit
             widget: "relation"
             collection: "post"
             search_fields: ["title"]
-            value_field: "id"
+            value_field: "{{slug}}"
             display_fields: ["title"]
             multiple: true
